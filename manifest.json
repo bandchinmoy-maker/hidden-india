@@ -1,12 +1,12 @@
 {
-  "name": "Hidden India — Stories Beneath the Surface",
+  "name": "Hidden India — Sanātana Sacred Places",
   "short_name": "Hidden India",
-  "description": "Find historic places nearby and discover their stories.",
+  "description": "Explore Sanātana sacred places, temples, traditions and Indian heritage nearby.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f3ec",
-  "theme_color": "#28483e",
+  "background_color": "#f8f1e5",
+  "theme_color": "#6d2924",
   "icons": [
     { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]

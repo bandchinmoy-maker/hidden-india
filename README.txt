@@ -1,4 +1,4 @@
-HIDDEN INDIA — FREE PHONE APP PACKAGE
+HIDDEN INDIA — SANĀTANA SACRED PLACES EDITION
 
 To open the preview on your computer, open index.html in a web browser.
 
@@ -16,4 +16,6 @@ One free option is GitHub Pages:
 5. GitHub will show the public website address in Settings > Pages. It usually looks like:
    https://YOUR-GITHUB-NAME.github.io/hidden-india/
 
-The hosted app asks permission before using location. The user can also search for a town. Location search and story loading need an internet connection. Photo previews stay on the device. This version does not identify a place from image pixels alone; use the nearby search to find the matching landmark.
+The hosted app asks permission before using location. The user can also search for a town. Nearby results include mapped Hindu places of worship and heritage landmarks; coverage depends on local map data. Location search and story loading need an internet connection. Photo previews stay on the device. This version does not identify a place from image pixels alone; use the nearby search or sacred places collection to find a matching landmark.
+
+The first Sanātana collection includes Kedarnath, Kashi, Rameswaram, Hampi, Puri, Kamakhya, Ujjain and Somnath. It is an initial offering, not a complete catalogue. Each place links to a cultural or tourism reference; sacred narratives are clearly presented as tradition and belief.
