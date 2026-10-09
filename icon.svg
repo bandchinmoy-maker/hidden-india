@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="116" fill="#6d2924"/>
+  <rect width="512" height="512" rx="116" fill="#4a271f"/>
   <circle cx="256" cy="256" r="164" fill="none" stroke="#f3d48a" stroke-width="8" opacity=".75"/>
   <text x="256" y="320" text-anchor="middle" font-family="Georgia,serif" font-size="225" fill="#f3d48a">ॐ</text>
 </svg>

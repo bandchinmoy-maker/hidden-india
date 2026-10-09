@@ -1,12 +1,12 @@
 {
-  "name": "Hidden India — Sanātana Sacred Places",
+  "name": "Hidden India — Virasat of Bharat",
   "short_name": "Hidden India",
   "description": "Explore Sanātana sacred places, temples, traditions and Indian heritage nearby.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f8f1e5",
-  "theme_color": "#6d2924",
+  "background_color": "#efe2c9",
+  "theme_color": "#4a271f",
   "icons": [
     { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
