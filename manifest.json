@@ -1,0 +1,13 @@
+{
+  "name": "Hidden India — Stories Beneath the Surface",
+  "short_name": "Hidden India",
+  "description": "Find historic places nearby and discover their stories.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#28483e",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
